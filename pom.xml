@@ -74,7 +74,7 @@
                 <version>2.8.0</version>
                 <configuration>
                     <projectId>GCLOUD_CONFIG</projectId>
-                    <version>jettty94</version>
+                    <version>jetty12ee8java17</version>
                     <promote>false</promote>
                 </configuration>
             </plugin>
